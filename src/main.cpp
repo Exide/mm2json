@@ -3,7 +3,7 @@
 #include "majormud.h"
 
 void print_usage() {
-    printf("Usage: mm2json --[race|class|spell|item|action|shop|textblock|room|npc] [file]\n"
+    printf("Usage: mm2json --[race|class|spell|item|action|shop|textblock|room|npc] FILE\n"
            "A command-line program for extracting MajorMUD data from the original Btrieve files.\n\n");
 }
 
