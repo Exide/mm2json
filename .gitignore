@@ -1,0 +1,6 @@
+# operating system files
+.DS_Store
+
+# development environment files
+/cmake*/
+/.idea
